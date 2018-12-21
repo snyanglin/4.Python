@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../11.RandomForest/.idea/11.RandomForest.iml" filepath="$PROJECT_DIR$/../11.RandomForest/.idea/11.RandomForest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../13.Boost/.idea/13.Boost.iml" filepath="$PROJECT_DIR$/../13.Boost/.idea/13.Boost.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../15.SVM/.idea/15.SVM.iml" filepath="$PROJECT_DIR$/../15.SVM/.idea/15.SVM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/4.Python.iml" filepath="$PROJECT_DIR$/.idea/4.Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../5.Package/.idea/5.Package.iml" filepath="$PROJECT_DIR$/../5.Package/.idea/5.Package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../6.Data/.idea/6.Data.iml" filepath="$PROJECT_DIR$/../6.Data/.idea/6.Data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../9.Regression/.idea/9.Regression.iml" filepath="$PROJECT_DIR$/../9.Regression/.idea/9.Regression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../FaceRecongnition/.idea/FaceRecongnition.iml" filepath="$PROJECT_DIR$/../../FaceRecongnition/.idea/FaceRecongnition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../simpleFacedetection/.idea/simpleFacedetection.iml" filepath="$PROJECT_DIR$/../../simpleFacedetection/.idea/simpleFacedetection.iml" />
+      <module fileurl="file://E:/PythonProject/spyter/.idea/spyter.iml" filepath="E:/PythonProject/spyter/.idea/spyter.iml" />
+    </modules>
+  </component>
+</project>
